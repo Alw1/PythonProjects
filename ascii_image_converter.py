@@ -3,7 +3,7 @@
 """
 A small Python script that takes an image and converts it's pixels into ASCII characters.
 NOTE: Does not fully work yet; the function that converts RGB tuples to a brightness value
-needs to be finetuned to differentiate values better. Code to change the size of image will also need to be added later.
+needs to be finetuned to differentiate pixels better. Code to change the size of image and better display it in the terminal will also need to be added later.
 """
 
 from PIL import Image
